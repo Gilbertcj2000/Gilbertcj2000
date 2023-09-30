@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gilbertcj2000
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on fullstack Devs 
+- 👀 I’m interested in Web Development| Data Analytics| Video Editting 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web Development Projects 
 - 📫 You can reach me via gilbertjonathan41@gmail.com
 
 <!---
