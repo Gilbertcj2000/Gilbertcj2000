@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gilbertcj2000
-- 👀 I’m interested in Web Development| Data Analytics| Video Editting 
+- 👀 I’m interested in Web Development| Software Development| Video Editting 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development Projects 
 - 📫 You can reach me via gilbertjonathan41@gmail.com
